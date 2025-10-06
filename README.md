@@ -7,7 +7,7 @@ https://img.shields.io/github/forks/tebberen/celo-engage-hub
 https://img.shields.io/github/issues/tebberen/celo-engage-hub
 https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Ftebberen%2Fcelo-engage-hub
 
-Social TX - Where Every Interaction Builds Real Value
+Social TX - Where Every Interaction Builds Real Value.
 A decentralized social engagement platform built on Celo blockchain that rewards meaningful community interactions through governance, badges, and social verification.
 
 📑 Table of Contents
