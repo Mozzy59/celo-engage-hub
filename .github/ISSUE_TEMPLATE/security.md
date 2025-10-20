@@ -36,7 +36,7 @@ What should happen normally.
 What actually happens due to the vulnerability.
 
 **Contract Information**
-- Contract Address: `0x22eA49c074098931a478F381f971C77486d185b2`
+- Contract Address: `0x********`
 - Network: [e.g., Celo Mainnet]
 
 **Environment**
