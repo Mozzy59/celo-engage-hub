@@ -32,7 +32,7 @@ Celo Engage Hub is a groundbreaking social platform that leverages blockchain te
 
 🎯 Problem Statement
 
-Traditional social platforms suffer from:
+Traditional social platforms suffer from;
 
 · Centralized control and censorship
 · Lack of transparency in content moderation
