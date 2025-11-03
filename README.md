@@ -28,7 +28,7 @@ A decentralized social engagement platform built on Celo blockchain that rewards
 
 🌟 Introduction
 
-Celo Engage Hub is a groundbreaking social platform that leverages blockchain technology to create a trustless, community-driven ecosystem. Built on the Celo network, it combines social interactions with on-chain governance and reputation systems.
+Celo Engage Hub is a groundbreaking social platform that leverages blockchain technology to create a trustless, community driven ecosystem. Built on the Celo network, it combines social interactions with on-chain governance and reputation systems.
 
 🎯 Problem Statement
 
